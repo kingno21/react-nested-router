@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-nested-router/precache-manifest.1131febb686c876696e1fbbf7a319b77.js"
+  "/react-nested-router/precache-manifest.e6a49ef5c04b4bf5cf0e19ddfcbbd985.js"
 );
 
 workbox.clientsClaim();
